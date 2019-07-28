@@ -8,16 +8,13 @@ print(a<=b)
 
 
 # Dict = {'dog':'cute','cat': 'black'}
-#
-#
-
 
 
 for li in range(0,100,2):
     print (li)
 
 
-#
+
 # while(a<=b):
 #     print('hello')
 
